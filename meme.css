@@ -1,0 +1,17 @@
+.container{
+    position: relative;
+}
+
+.topBlock{
+    position: absolute;
+    color: white;
+    top: 8px;
+    font-size: 20px;
+}
+
+.bottomBlock{
+    position: absolute;
+    color: white;
+    bottom: 8px;
+    font-size: 20px;
+}
